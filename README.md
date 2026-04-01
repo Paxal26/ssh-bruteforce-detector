@@ -50,13 +50,3 @@ Brute-force attacks against SSH are one of the most common threats any organizat
 ## Requirements
 
 Python 3.x — no external libraries required
-```
-
-Now run these commands in your `logtool` folder:
-```
-git init
-git add analyzer.py README.md
-git commit -m "initial commit"
-git branch -M main
-git remote add origin https://github.com/Paxal26/ssh-bruteforce-detector.git
-git push -u origin main
